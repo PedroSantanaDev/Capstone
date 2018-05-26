@@ -1,0 +1,9 @@
+/**
+ *Author: Pedro Santana Minalla
+ *Date: 23/09/2016
+*/
+@media (max-width: 580px) {
+  .project-name{
+	font-size: 6vw;
+}
+}
